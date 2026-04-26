@@ -1,6 +1,6 @@
 label idle_1: #Escape, Reality and Coding.
     $show_chr("A-AFAAA-ALAA")
-    y "You know, Monika once told me my books were a form of escape, and an unhealthy coping mechanism."
+    y "Sabe, a Monika me disse uma vez que meus livros eram uma forma de fuga e um mecanismo de defesa nada saudável.."
     $show_chr("A-BFAAA-ALAA")
     y "Reading was a way to simply shut out the reality I was too afraid to face."
     $show_chr("A-CFAAA-ALAA")
