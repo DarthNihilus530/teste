@@ -14,11 +14,11 @@ label tetris:
     if sanity_lvl() > 2 and karma_lvl() > 2:
         menu:
             y "Oh, so you'd like to play some Tetris, hm?"
-            "Yes.":
+            "Sim.":
                 y "Alright."
                 y "Which theme would you like this time?"
                 $pass
-            "No.":
+            "Não.":
                 y "I see..."
                 $ show_chr("A-AAAAA-AAAA")
                 y "Perhaps some other time, then."
