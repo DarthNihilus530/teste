@@ -11,7 +11,7 @@ init 5 python:
     )
 
 label cks_monika_stat_tracker:
-    m 1eua "You want to see some of your stats, [player]?"
+    m 1eua "Você quer ver algumas das suas estatísticas, [player]?"
     m 3eub "That's a great idea! I actually keep track of quite a lot of things behind the scenes."
     m 1eka "It's mostly because I care about every little moment we spend together, so I like to have a record of it."
     m 3eua "It's also just a fun way to see how much we've grown as a couple!"
